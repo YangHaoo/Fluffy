@@ -200,9 +200,9 @@ class Language:
                   23: "选项",
                   24: "语言切换",
                   25: "Github主页地址",
-                  26: "Network",
-                  27: "Headers Sent",
-                  28: "NSP(s) in Queue",
+                  26: "网络",
+                  27: "发送头文件",
+                  28: "队列中的NSP游戏文件",
                    }
 
 set_language("Chinese")
